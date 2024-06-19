@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458210166296",
+    "project_id": "wallpaper-uploader-b1094",
+    "storage_bucket": "wallpaper-uploader-b1094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458210166296:android:08a37883b59fca3940656d",
+        "android_client_info": {
+          "package_name": "raj.animesh.image_uploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQAoGzNU959wCt0U7ihAJg8Kkynt41d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
